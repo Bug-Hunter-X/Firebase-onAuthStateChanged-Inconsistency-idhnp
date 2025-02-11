@@ -1,0 +1,1 @@
+The Firebase SDK's `onAuthStateChanged` listener might not trigger consistently across different platforms or network conditions. This can lead to unexpected behavior where authentication state changes are missed or delayed, resulting in authentication-related issues.
